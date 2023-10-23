@@ -5,14 +5,6 @@
 Codebase for a Marketing agency website  optimised for SEO
 Following client request, I optimsed the codebase of their website so that it aligns to accessibility standards.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
@@ -31,7 +23,7 @@ All the changes above have been done to increase visibility through Search Engin
 
 ## Credits
 
-Website used as reference:
+Websites used as reference:
 https://www.w3schools.com/tags/att_img_alt.asp
 https://stackoverflow.com/questions/6313126/how-do-i-remove-a-directory-from-a-git-repository
 https://www.w3schools.com/html/html5_semantic_elements.asp
